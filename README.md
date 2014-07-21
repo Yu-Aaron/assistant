@@ -1,3 +1,3 @@
 assistant
 =========
-add a readme
+update a readme
